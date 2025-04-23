@@ -2,5 +2,6 @@ Name: Indujha N
 Reg No:24MCR034
 Dept: MCA
 Fav Subject: Computer Networks
+Class : I MCA A
 
 
